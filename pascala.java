@@ -5,7 +5,7 @@ import javax.security.sasl.SaslClient;
 public class pascala{
 
 public static void main(String[] args) {
-    System.out.println("enter ur fucking problem:51______");
+    System.out.println("enter ur  problem:______");
 Scanner sc= new  Scanner(System.in);
 int k = sc.nextInt();
 
